@@ -1,0 +1,7 @@
+id=Low-RAM-MoD
+name=Low-RAM-MoD
+version=v1
+versionCode=1
+author=The~Skater~187@xda-developers.com
+description=This module sets the "Low RAM Device" flag on your build.prop file via Magisk.
+minMagisk=1500
