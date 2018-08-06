@@ -6,7 +6,7 @@ This module enables the "Low RAM" flag on your build.prop file via Magisk.
 ## What it does
 This module uses the tool "resetprop" to modify settings found in build.prop to:
 
-ro.config.low_ram= true
+ro.config.low_ram=true
 
 ## Requirements
 * Magisk v15.0 or higher
