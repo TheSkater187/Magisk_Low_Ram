@@ -12,5 +12,5 @@ ro.config.low_ram= true
 * Magisk v15.0 or higher
 
 ## Changelog 
-* Initial Release v1.1
+* Initial Release v1.0
 # Venom_Mod
