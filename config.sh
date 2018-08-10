@@ -41,8 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "*          ~Venom Mod~        *"
-  ui_print "*     by: The~Skater~187      *"
+  ui_print "*        ~Low-RAM Mod~        *"
+  ui_print "*      187~Mod~Creation       *"
   ui_print "*******************************"
 }
 
